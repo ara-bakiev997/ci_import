@@ -2,8 +2,6 @@ name: Тест публикации файлов в S3
 description: простой экшен для тестирования импорта
 runs:
   using: "composite"
-  container:
-    image: amazon/aws-cli:latest 
   # volumes:
   #   - /root/.aws:/root/.aws
   steps:
