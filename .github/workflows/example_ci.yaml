@@ -17,4 +17,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Тест импорта
-        uses: https://github.com/ara-bakiev997/ci_import/publish@master
+        uses: https://github.com/ara-bakiev997/ci_import/publish@v1
