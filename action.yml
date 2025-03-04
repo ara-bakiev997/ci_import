@@ -7,3 +7,4 @@ runs:
   steps:
     - name: получение списка файлов
       run: aws --version
+      shell: bash 
