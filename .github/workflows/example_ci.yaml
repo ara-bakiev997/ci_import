@@ -17,4 +17,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Тест импорта
-        uses: ara-bakiev997/ci_import@v1
+        uses: ara-bakiev997/ci_import@v2
